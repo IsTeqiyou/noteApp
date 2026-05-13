@@ -66,20 +66,20 @@ class NoteCard extends StatelessWidget{
                    ),
 
                    //ACTION
-                   Row(
-                    mainAxisAlignment: MainAxisAlignment.end,
-                    children: [
-                     GestureDetector(
-                      onTap: onDelete,
-                      child: Icon(
-                        Icons.delete,
-                        size: 18,
-                        color: theme.colorScheme.error 
+                  //  Row(
+                  //   mainAxisAlignment: MainAxisAlignment.end,
+                  //   children: [
+                  //    GestureDetector(
+                  //     onTap: onDelete,
+                  //     child: Icon(
+                  //       Icons.delete,
+                  //       size: 18,
+                  //       color: theme.colorScheme.error 
                       
-                      ),
-                     )
-                   ],
-                   ),
+                  //     ),
+                  //    )
+                  //  ],
+                  //  ),
             ],
         )
       ),
