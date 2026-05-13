@@ -1,6 +1,6 @@
-<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105538 (1)" src="https://github.com/user-attachments/assets/425facd7-a9cc-4235-9c28-5046995fa9ef" />
-<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105515" src="https://github.com/user-attachments/assets/e1e987c0-68af-44e8-9519-fdb315ab7136" />
-<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105458 (1)" src="https://github.com/user-attachments/assets/77a187d8-026b-4eac-9778-6ea6a470d53e" />
+<img width="200" height="700" alt="Cuplikan layar 2026-05-13 105538 (1)" src="https://github.com/user-attachments/assets/425facd7-a9cc-4235-9c28-5046995fa9ef" />
+<img width="200" height="700" alt="Cuplikan layar 2026-05-13 105515" src="https://github.com/user-attachments/assets/e1e987c0-68af-44e8-9519-fdb315ab7136" />
+<img width="200" height="700" alt="Cuplikan layar 2026-05-13 105458 (1)" src="https://github.com/user-attachments/assets/77a187d8-026b-4eac-9778-6ea6a470d53e" />
 
 # 📝 Flutter Simple Note App
 
