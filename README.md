@@ -1,3 +1,7 @@
+<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105538 (1)" src="https://github.com/user-attachments/assets/425facd7-a9cc-4235-9c28-5046995fa9ef" />
+<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105515" src="https://github.com/user-attachments/assets/e1e987c0-68af-44e8-9519-fdb315ab7136" />
+<img width="300" height="700" alt="Cuplikan layar 2026-05-13 105458 (1)" src="https://github.com/user-attachments/assets/77a187d8-026b-4eac-9778-6ea6a470d53e" />
+
 # 📝 Flutter Simple Note App
 
 Aplikasi catatan sederhana yang dibangun menggunakan **Flutter** dengan sistem penyimpanan data lokal **SQLite**. Aplikasi ini dirancang dengan antarmuka yang bersih, responsif, dan mendukung fitur tema adaptif.
@@ -30,24 +34,11 @@ Aplikasi menyediakan pengalaman visual yang nyaman dengan dua mode utama:
 | **Provider / setState** | Management state aplikasi |
 | **Path** | Penanganan lokasi direktori file |
 
+
 ---
 
-## 📂 Struktur Folder
-```text
-lib/
-├── models/
-│   └── note_model.dart       # Model data & fungsi toMap/fromMap
-├── pages/
-│   ├── home_page.dart       # Tampilan utama daftar catatan
-│   └── note_page.dart       # Editor catatan (Tambah/Edit)
-├── services/
-│   └── database_helper.dart # Konfigurasi & Query CRUD SQLite
-├── widgets/
-│   └── note_card.dart       # Komponen UI kartu catatan
-└── main.dart
-<img width="455" height="936" alt="Cuplikan layar 2026-05-13 105538 (1)" src="https://github.com/user-attachments/assets/425facd7-a9cc-4235-9c28-5046995fa9ef" />
-<img width="460" height="937" alt="Cuplikan layar 2026-05-13 105515" src="https://github.com/user-attachments/assets/e1e987c0-68af-44e8-9519-fdb315ab7136" />
-<img width="453" height="940" alt="Cuplikan layar 2026-05-13 105458 (1)" src="https://github.com/user-attachments/assets/77a187d8-026b-4eac-9778-6ea6a470d53e" />
+
+
 
 
 
